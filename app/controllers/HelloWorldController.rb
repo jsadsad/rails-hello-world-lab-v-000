@@ -1,4 +1,4 @@
-class HelloWorld < ApplicationController
+class HelloWorldController < ApplicationController
   def hello_world
     get 'hello_world'
   end
